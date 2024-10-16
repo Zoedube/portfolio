@@ -1,7 +1,7 @@
 import React, { useState, useRef, Suspense } from 'react';
 import emailjs from '@emailjs/browser';
 import { Canvas } from '@react-three/fiber';
-import Fox from '../models/fox';
+import Fox from '../models/Fox';
 import Loader from '../components/Loader';
 import Alert from '../components/Alert'; // Correct usage of Alert
 import useAlert from '../hooks/useAlert'; // Ensure useAlert is properly imported
