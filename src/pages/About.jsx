@@ -38,7 +38,7 @@ Coding is not just a technical skill for me—it’s a way to expand my consciou
 
       <div className="py-16">
         <div className="mt-5 flex flex-col gap-3 text-slate-500">
-          <p>Software Engineer based in Croatia, specializing in technical education through hands-on learning and building applications.</p>
+          <p>Software Engineer based in South Africa, specializing in technical education through hands-on learning and building applications.</p>
         </div>
 
         <div className="mt-12 flex">
