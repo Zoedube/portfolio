@@ -12,9 +12,13 @@ const About = () => {
       </h1>
 
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
-        <p>I am a front-end developer based in South Africa, passionate about creativity, innovation, and using code to bring ideas to life. I thrive on the intersection of technology and imagination, where I can transform concepts into interactive, engaging experiences. With a deep love for design and user-centric development, I use tools like HTML, CSS, JavaScript, React, and Three.js to build visually stunning and functional web applications.
+        <p>I’m a front-end developer based in South Africa, currently working at a company specialising in drone technology. While front-end development is where I feel most at home, I also have experience working across the stack, which allows me to build with a broader technical perspective.
 
-Coding is not just a technical skill for me—it’s a way to expand my consciousness and explore new ideas. Each project is an opportunity to push boundaries, think outside the box, and create something meaningful. I believe in continuous learning, hands-on experimentation, and the power of collaboration to drive impactful solutions.</p>
+My work is strongly design-led. I enjoy crafting intuitive, visually engaging interfaces and thinking deeply about user experience, interaction, and flow. Alongside HTML, CSS, JavaScript, React, and Three.js, I also work with Node.js, Express, and MySQL, giving me the ability to understand and contribute to backend logic, APIs, and data-driven applications.
+
+I’m comfortable collaborating with version control using Git and deploying projects with platforms like Vercel, and I enjoy seeing ideas through from concept to production. Even as a software developer, I’m deeply drawn to UI/UX and design as a whole — it’s where creativity and problem-solving meet in the most meaningful way for me.
+
+Coding is more than just a technical skill in my world; it’s a creative outlet and a way to explore ideas, systems, and possibilities. I’m focused on growth, continuous learning, and staying curious about where this journey will lead. For now, I hope you enjoy exploring my work — and seeing how design and development come together in my portfolio.</p>
       </div>
 
       <div className="py-10 flex flex-col">
