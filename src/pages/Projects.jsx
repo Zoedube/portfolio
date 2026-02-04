@@ -11,11 +11,13 @@ const Projects = () => {
 
     <div className="mt-5 flex flex-col gap-3 text-slate-500">
       <p>
-        Although I started coding a year ago, I’ve already embarked on projects that fuel my passion for front-end development and creativity. Each project has been a valuable learning experience, allowing me to explore new technologies, improve my skills, and transform ideas into interactive and engaging web applications.
+      These projects represent different points along my journey into front-end development. Each one reflects a stage of exploration, experimentation, and learning as I developed my skills and found my rhythm in building for the web.
 
-        I’m continually growing as a developer, and many of my projects reflect my desire to experiment, innovate, and push my own boundaries. Whether it’s building responsive interfaces or working with 3D visualizations using Three.js, I approach each project as an opportunity to refine my craft and learn something new.
+Through these projects, I’ve explored everything from responsive interfaces to interactive and 3D experiences, using tools like React and Three.js to bring ideas to life. They showcase not just what I’ve built, but how I think creatively, visually, and with the user experience in mind.
 
-        Most of these projects are open-source, and I welcome collaboration from the community. If any of these projects interest you, I’d love for you to explore the code, share your insights, and contribute to their evolution. I’m excited to continue learning, growing, and improving alongside fellow developers who share a passion for creativity and innovation.
+Since starting these projects, I’ve grown significantly as a front-end developer and continued to deepen my understanding of UI/UX and design led development. Many of these works are open-source and reflect my curiosity, willingness to experiment, and desire to push my own boundaries.
+
+I’m excited to keep evolving, learning, and refining my craft and I hope you enjoy exploring and browsing through my work as much as I enjoyed creating it.
       </p>
     </div>
 
